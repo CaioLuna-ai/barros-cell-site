@@ -7,7 +7,7 @@ Site profissional para venda de smartphones, incluindo iPhones, Xiaomi e acessó
 
 📸 Preview
 
-
+[Preview do Site](./Print%20Site.png)
 
 📞 Contato
 
